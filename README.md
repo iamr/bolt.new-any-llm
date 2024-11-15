@@ -91,7 +91,7 @@ git clone https://github.com/coleam00/bolt.new-any-llm.git
 
 ![image](https://github.com/user-attachments/assets/7e6a532c-2268-401f-8310-e8d20c731328)
 
-If you can't see the file indicated above, its likely you can't view hidden files. On Mac, open a Terminal window and enter this command below. On Windows, you will see the hidden files option in File Explorer Settings. A quick Google search will help you if you are stuck here.
+If you can't see the file indicated above, its likely you can't view hidden files. On Mac, open a Terminal window and enter this command below or press CMD+Shift+Dot. On Windows, you will see the hidden files option in File Explorer Settings. A quick Google search will help you if you are stuck here.
 
 ```
 defaults write com.apple.finder AppleShowAllFiles YES
